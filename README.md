@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/amirrahimii">
-<img align="center" src="https://github-readme-stats.vercel.app/api&theme=dracula?username=amirrahimii&show_icons=true&count_private=true&include_all_commits=true" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirrahimii&show_icons=true&count_private=true&include_all_commits=true" /></a>
 
 <a href="https://github.com/amirrahimii">
-<img align="center" src="https://github-readme-stats.vercel.app/api&theme=dracula/top-langs/?username=amirrahimii" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirrahimii" />
 </a>
