@@ -5,4 +5,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirrahimii" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/amirrahimii)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirrahimii&layout=compact)](https://github.com/amirrahimii)
