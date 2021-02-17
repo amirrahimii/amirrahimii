@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirrahimii&layout=compact&theme=tokyonight)](https://github.com/amirrahimii)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/amirrahimii)
+[![willianrod's wakatime stats](https://github.com.amirrahimii/api/wakatime?username=willianrod)](https://github.com/amirrahimii)
