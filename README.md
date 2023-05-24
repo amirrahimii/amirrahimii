@@ -1,5 +1,5 @@
 ### Hi, I am Amir and welcome to my Github profile
-### network and linux 
+### linux & python
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirrahimii&show_icons=true&theme=tokyonight)
 
