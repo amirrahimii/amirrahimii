@@ -7,5 +7,8 @@
 </kbd>
 
 <h2>Hello, my name is amir, <div align="center"></div></h2>
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=amirrahimii&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true) <br>
-<img src="https://github.com/amirrahimii/amirrahimii/assets/31228460/edb251bb-6518-4015-a037-b0887225c2c5" alt="logo1" width="200"> 
+
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirrahimii&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirrahimii&layout=compact&theme=tokyonight)](https://github.com/amirrahimii)
